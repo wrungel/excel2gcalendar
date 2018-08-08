@@ -1,0 +1,6 @@
+target
+*.iml
+.idea
+tokens
+excel2gcal.log*
+src/main/resources/credentials.json
